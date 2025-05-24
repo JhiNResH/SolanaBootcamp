@@ -5,7 +5,7 @@
 
 ## 專案列表
 
-### [Project 01 - Favorites]
+### [Project 01 - Favorites](https://github.com/JhiNResH/SolanaBootcamp/tree/main/project-01-favorites)
 第一個專案：將使用者最喜歡的數字、顏色、興趣等資料儲存在區塊鏈上。
 
 ## 如何使用

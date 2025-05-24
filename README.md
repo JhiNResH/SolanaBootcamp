@@ -1,16 +1,13 @@
 # Solana Bootcamp Projects
 
-這個倉庫包含我在 Solana Bootcamp 中完成的所有專案。
+我的 Solana 健康檢查，有鑒於我已荒廢太久寫 code，所以我打算練練手並撿起那些快要消失的技能包，
+這個 repo 是 Solana Bootcamp 中的 9 個專案練習，並開始學習如何記錄過程。
 
 ## 專案列表
 
-### [Project 01 - Favorites](./project-01-favorites/)
+### [Project 01 - Favorites]
 第一個專案：實作 Favorites 功能的 Solana 程式
 
-### 即將到來的專案
-- Project 02 - [待定]
-- Project 03 - [待定]
-- ...
 
 ## 如何使用
 
@@ -31,5 +28,3 @@
 4. 進入個別專案資料夾執行 `yarn install`
 
 ---
-
-*Solana Bootcamp - 學習區塊鏈開發的旅程* 🚀 

@@ -159,7 +159,7 @@ await program.methods
 --------------------------------
 # github 插曲
 ```bash
-你的本地 commit ──→ [衝突] ←── GitHub 上的 commit
+本地 commit ──→ [衝突] ←── GitHub 上的 commit
                     ↓
                 解決衝突後
                     ↓
